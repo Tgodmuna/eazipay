@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# Eazipay Frontend Assessment Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my Eazipay frontend assessment project! This project was developed using React.js, Chart.js, inline styles, and Tailwind CSS. The goal was to replicate the designs provided in the Figma files, creating both a landing page and a user dashboard. Please note that while I aimed for full completion, I was able to achieve approximately 70% of the design due to time constraints.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+This project demonstrates my skills as a React.js developer and showcases my ability to create responsive web applications using various frontend technologies. It includes:
 
-### `npm start`
+- Landing Page: 
+- User Dashboard
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js: A JavaScript library for building user interfaces.
+- Chart.js: A powerful charting library for creating interactive and visually appealing charts.
+- Inline Styles: Styling components using inline styles.
+- Tailwind CSS: A utility-first CSS framework for designing responsive and modern user interfaces.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these steps to run the project locally:
 
-### `npm run build`
+1. Clone this repository to your local machine.
+2. Navigate to the project directory using the command line.
+3. Install the project dependencies by running: `npm install`.
+4. Start the development server: `npm start`.
+5. Open your web browser and go to: `http://localhost:3000`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Please note that you'll need to have Node.js and npm (Node Package Manager) installed on your machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Folder Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project is organized as follows:
 
-### `npm run eject`
+- `src/`: Contains the source code of the project.
+  - `components/`: Reusable React components.
+  - `landingPage folder/`: components concerning landing page.
+  - `userDashboard folder/`: components concerning Dashboard
+  - `styles/`: Contains inline styles for components.
+  - `pages/`: Individual pages of the application.
+- `public/`: Contains static assets.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To view the landing page and user dashboard, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Open the browser.
+2. Choose either the landing page or user dashboard main file from the `component/landing page or dashboard` directory.
+3. Open the chosen HTML file in your browser.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Roadmap
 
-## Learn More
+While I achieved 70% completion, there are areas for improvement and future enhancements:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Adjust Recent Search Button**: Enhance the styling and functionality of the recent search button to make it more visually appealing and user-friendly.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Complete User Form on Landing Page**: Finish implementing the user form on the landing page, including validation and error handling. This will improve the user experience and allow for more user engagement.
 
-### Code Splitting
+- **Enhance Footer Design**: Work on the footer design to make it consistent with the overall theme of the application. Include important links and information for users.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Implement Context API**: Integrate the Context API to manage global state and improve data sharing between components. This will enhance code organization and make the application more maintainable.
 
-### Analyzing the Bundle Size
+- **Mobile Responsiveness**: Ensure that the application is fully responsive on various screen sizes and devices, providing a seamless experience for users across platforms.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Optimize Performance**: Identify and address performance bottlenecks, such as optimizing image loading and reducing unnecessary renders, to ensure a smooth and fast user experience.
 
-### Making a Progressive Web App
+- **Localization**: Implement localization support to make the application accessible to users from different regions by offering content in their preferred languages.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Unit and Integration Testing**: Implement testing strategies using tools like Jest and React Testing Library to ensure the reliability and stability of the application.
 
-### Advanced Configuration
+- **Documentation**: Create detailed documentation for the project, including setup instructions, component descriptions, and explanations of key design decisions. This will make it easier for other developers to understand and contribute to the project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Security Enhancements**: Review and implement best practices for securing the application, including input validation, data sanitization, and protection against common vulnerabilities.
 
-### Deployment
+- **Integration of Additional APIs**: Explore integrating other relevant APIs to provide users with more features and functionalities that align with the project's goals.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+These improvements will contribute to the project's overall quality and user satisfaction. Feel free to prioritize them based on your project's goals and time availability.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+
+I'd like to thank the Eazipay team for providing this assessment opportunity and allowing me to showcase my skills.
+
+---
+
+Feel free to reach at aguthankgod@gmail.com out if you have any questions or suggestions about this project. Thank you for taking the time to review my work!
