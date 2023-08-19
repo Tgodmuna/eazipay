@@ -13,6 +13,7 @@ const MainContents = () => {
       <FinancialDashboard />
       <FinanceChart />
       <SearchBar />
+      <DashboardCard/>
       </div>
   );
 };
