@@ -6,7 +6,7 @@ Welcome to my Eazipay frontend assessment project! This project was developed us
 
 This project demonstrates my skills as a React.js developer and showcases my ability to create responsive web applications using various frontend technologies. It includes:
 
-- Landing Page: 
+- Landing Page
 - User Dashboard
 
 ## Technologies Used
