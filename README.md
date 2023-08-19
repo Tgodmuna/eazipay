@@ -46,7 +46,8 @@ To view the landing page and user dashboard, follow these steps:
 
 1. Open the browser.
 2. Choose either the landing page or user dashboard main file from the `component/landing page or dashboard` directory.
-3. Open the chosen HTML file in your browser.
+3. import the DBholder in the app.js which is the parent file that contains all other dashboard file .
+4. And for the landing page , import HomeFile in App.js
 
 ## Roadmap
 
