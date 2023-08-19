@@ -4,7 +4,7 @@ import { HiCheckCircle } from "react-icons/hi";
 const Section2Mobile = () => {
   return (
     <div className='bg-cover' style={{ backgroundImage: "url('./audience')" }}>
-      <div className='bg-milky p-6 md:p-12 flex flex-col'>
+      <div className=' p-6 md:p-12 flex flex-col'>
         <div className='text-center mb-6 lg:mb-12'>
           <h2 className='text-4xl md:text-5xl mb-4 text-green-900'>
             For Individuals and Businesses
@@ -16,7 +16,7 @@ const Section2Mobile = () => {
 
         <div className='cards gap-6'>
           {/* card 1 */}
-          <div className='card bg-milky p-6 rounded-2xl shadow-md border-2 border-gray-300'>
+          <div className='card p-6 rounded-2xl shadow-md border-2 border-gray-300'>
             <h3 className='text-xl md:text-2xl font-bold'>
               Tamper-proof Payroll for Life
             </h3>
@@ -34,7 +34,7 @@ const Section2Mobile = () => {
             </p>
           </div>
           {/* card2 */}
-          <div className='card bg-milky p-6 rounded-2xl shadow-md border-2 border-gray-300'>
+          <div className='card p-6 rounded-2xl shadow-md border-2 border-gray-300'>
             <h3 className='text-xl md:text-2xl font-bold'>
               All Payroll, Anytime Anywhere
             </h3>
@@ -51,7 +51,7 @@ const Section2Mobile = () => {
             </p>
           </div>
           {/* card 3 */}
-          <div className='card bg-milky p-6 rounded-2xl shadow-md border-2 border-gray-300'>
+          <div className='card p-6 rounded-2xl shadow-md border-2 border-gray-300'>
             <h3 className='text-xl md:text-2xl font-bold'>
               Payroll in Seconds
             </h3>

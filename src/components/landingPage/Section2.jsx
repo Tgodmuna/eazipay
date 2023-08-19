@@ -22,7 +22,7 @@ const Section2 = () => {
 
   return (
     <div className='' style={{ backgroundImage: "url('./audience')" }}>
-      <div className='bg-milky p-6 lg:p-12 flex flex-col m-auto'>
+      <div className=' p-6 lg:p-12 flex flex-col m-auto'>
         <div className='text-center mb-6 lg:mb-12'>
           <h2
             style={{ color: "rgb(23,74,63)" }}
