@@ -109,7 +109,7 @@ const UserDropdown = () => {
 
 const Navigation = () => {
   return (
-    <nav className=' fixed top-[0vw] left-0 w-full z-10  bg-gray-100  flex md:flex-row md:flex-nowrap md:justify-start items-center md:p-6 md:shadow-lg  md:block'>
+    <nav className='flex fixed top-[0vw] left-0 w-full z-10  bg-gray-100  md:flex-row md:flex-nowrap justify-start items-center p-6 md:shadow-lg '>
       <div className='w-full mx-auto items-center hidden lg:flex md:flex justify-between flex-wrap md:px-16 py-1 px-2 '>
         <ul className='list-none items-center flex'>
           <li className='relative left-5  md:left-[75vw]'>

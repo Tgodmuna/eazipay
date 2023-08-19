@@ -4,7 +4,7 @@ import {FaCalendarWeek } from "react-icons/fa";
 function DBLeftcard() {
   return (
     <>
-      <div className=' relative -bottom-[12rem] mt-8 h-[18vw] md:w-[14vw] md:flex md:flex-col md:mx-auto md:border border-black md:shadow-lg md:rounded-[2rem]  hidden md:overflow-hidden '>
+      <div className='  relative -bottom-[12rem] mt-8 h-[18vw] md:w-[14vw] md:flex md:flex-col md:mx-auto md:border border-slate-300 md:shadow-lg md:rounded-[2rem]  hidden md:overflow-hidden '>
         <div className='hidden lg:block text-primary text-center p-3 bg-mint font-bold text-base shadow-md bg-[rgb(217,235,205)]'>
           Next Payroll
         </div>
