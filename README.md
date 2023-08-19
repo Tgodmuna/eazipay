@@ -1,6 +1,6 @@
 # Eazipay Frontend Assessment Project
 
-Welcome to my Eazipay frontend assessment project! This project was developed using React.js, Chart.js, inline styles, and Tailwind CSS. The goal was to replicate the designs provided in the Figma files, creating both a landing page and a user dashboard. Please note that while I aimed for full completion, I was able to achieve approximately 70% of the design due to time constraints.
+Welcome to my Eazipay frontend assessment project! This project was developed using React.js, Chart.js, CSS-JS styles, and Tailwind CSS. The goal was to replicate the designs provided in the Figma files, creating both a landing page and a user dashboard. Please note that while I aimed for full completion, I was able to achieve approximately 70% of the design due to time constraints.
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ This project demonstrates my skills as a React.js developer and showcases my abi
 
 - React.js: A JavaScript library for building user interfaces.
 - Chart.js: A powerful charting library for creating interactive and visually appealing charts.
-- Inline Styles: Styling components using inline styles.
+- CSS-JS Styling: Styling components using inline styles.
 - Tailwind CSS: A utility-first CSS framework for designing responsive and modern user interfaces.
 
 ## Getting Started
