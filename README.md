@@ -52,7 +52,7 @@ To view the landing page and user dashboard, follow these steps:
 
 While I achieved 70% completion, there are areas for improvement and future enhancements:
 
-- **Adjust Recent Search Button**: Enhance the styling and functionality of the recent search button to make it more visually appealing and user-friendly.
+-
 
 - **Complete User Form on Landing Page**: Finish implementing the user form on the landing page, including validation and error handling. This will improve the user experience and allow for more user engagement.
 
@@ -60,7 +60,7 @@ While I achieved 70% completion, there are areas for improvement and future enha
 
 - **Implement Context API**: Integrate the Context API to manage global state and improve data sharing between components. This will enhance code organization and make the application more maintainable.
 
-- **Mobile Responsiveness**: Ensure that the application is fully responsive on various screen sizes and devices, providing a seamless experience for users across platforms.
+
 
 - **Optimize Performance**: Identify and address performance bottlenecks, such as optimizing image loading and reducing unnecessary renders, to ensure a smooth and fast user experience.
 
