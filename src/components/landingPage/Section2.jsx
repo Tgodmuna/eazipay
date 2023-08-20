@@ -22,7 +22,7 @@ const Section2 = () => {
 
   return (
     <div className='' style={{ backgroundImage: "url('./audience')" }}>
-      <div className=' p-6 lg:p-12 flex flex-col m-auto'>
+      <div className=' p-6 lg:p-12 flex flex-col m-auto relative '>
         <div className='text-center mb-6 lg:mb-12'>
           <h2
             style={{ color: "rgb(23,74,63)" }}
@@ -34,11 +34,11 @@ const Section2 = () => {
           </p>
         </div>
 
-        <div className='cards gap-6 flex flex-col lg:flex-row'>
+        <div className='cards gap-6 flex flex-col lg:flex-row left-[10rem] relative '>
           {/* card 1 */}
           <div
             style={{ backgroundColor: "rgb(23,74,63)" }}
-            className='card-1 left-[10rem] z-10 relative text-slate-200 bg-white p-10 rounded-2xl transition-transform  duration-300 group hover:-translate-x-56  shadow-md border-2 border-gray-300'>
+            className='card-1 left-[10rem] z-10 relative text-slate-200 bg-white p-10 rounded-2xl transition-transform  duration-1000 group hover:-translate-x-[13.5rem]  shadow-md border-2 border-gray-300'>
             <h3 className='text-2xl font-bold'>
               Tamper-proof Payroll for Life
             </h3>
@@ -70,7 +70,7 @@ const Section2 = () => {
           {/* card 3 */}
           <div
             style={{ backgroundColor: "rgb(23,74,63)" }}
-            className='text-slate-200 card-3 relative right-[24rem] z-40 bg-white p-10 rounded-2xl transition-transform duration-300 group hover:translate-x-40  shadow-md border-2 border-gray-300'>
+            className='text-slate-200 card-3 relative right-[24rem] z-40 bg-white p-10 rounded-2xl transition-transform duration-1000 group hover:translate-x-[15rem]  shadow-md border-2 border-gray-300'>
             <h3 className='text-2xl font-bold'>Payroll in Seconds</h3>
             <p className='p-3'>
               Never again will you spend more than 2 minutes on payroll.
