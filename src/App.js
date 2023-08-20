@@ -1,11 +1,11 @@
 import './App.css';
-import DBHolder from './components/Dashboard/DBHolder'
+import HomePage from './components/landingPage/Home';
 
 
 function App() {
   return (
     <div className='App'>
-     <DBHolder/>
+     <HomePage/>
     </div>
   );
 }

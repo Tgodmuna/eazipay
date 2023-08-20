@@ -4,7 +4,7 @@ import StepsComponent from "./StepCount";
 
 const Section3 = () => {
   return (
-    <div className='flex flex-col justify-between p-5 md:p-8 md:flex-col md:flex md:justify-between gap-5 items-center'>
+    <div className='-mb-[48rem] flex flex-col justify-between p-5 md:p-8 md:flex-col md:flex md:justify-between gap-5 items-center'>
       <div className='flex flex-col space-y-4'>
         <h1 className='text-4xl capitalize text-green-950 font-extrabold md:text-8xl md:m-6 md:font-serif md:font-extrabold '>
           How Eazy Works
@@ -28,7 +28,7 @@ const Section3 = () => {
             />
           </div>
 
-          <div class='flex h-screen hidden md:flex md:relative md:-top-[48rem] '>
+          <div class=' h-screen hidden md:flex md:relative md:-top-[48rem] '>
             <div class='flex justify-center items-center relative w-[43rem] h-[43rem] rounded-full bg-gray-300'>
               <div class='flex justify-center items-center relative w-[39rem] h-[39rem] rounded-full bg-green-900'>
                 <div class='flex justify-center items-center relative w-[25rem] h-[25rem] rounded-full bg-gay-500'></div>
@@ -51,7 +51,7 @@ const Section3 = () => {
         </div>
 
         <div class=''>
-         <StepsComponent/>
+          <StepsComponent />
         </div>
       </div>
     </div>

@@ -23,7 +23,7 @@ const HomePage = () => {
     <>
       <section1
         id='hero-section'
-        className='flex flex-col md:flex md:flex-col md:bg-cover md:bg-center md:w-full md:h-[100vh]  md:object-contain'
+        className='flex flex-col md:flex md:flex-col md:bg-cover md:bg-center md:w-full md:h-full  md:object-contain'
         style={{
           backgroundImage: 'url("/Assets/BGImage.png")',
         }}>
