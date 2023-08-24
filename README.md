@@ -44,10 +44,11 @@ The project is organized as follows:
 
 To view the landing page and user dashboard, follow these steps:
 
-1. Open the browser.
-2. Choose either the landing page or user dashboard main file from the `component/landing page or dashboard` directory.
-3. import the DBholder in the app.js which is the parent file that contains all other dashboard file .
-4. And for the landing page , import HomeFile in App.js
+1. Choose either the landing page or user dashboard main file from the `component/landing page or dashboard` directory.
+2. import the DBholder in the app.js which is the parent file that contains all other dashboard file .
+3. And for the landing page , import HomeFile in App.js.
+4. Open the Vscode editor terminal and navigate to eazipay directory and run `npm start and view the page at local host 3000` .
+
 
 ## Roadmap
 
@@ -72,10 +73,6 @@ While I achieved 70% completion, there are areas for improvement and future enha
 - **Documentation**: Create detailed documentation for the project, including setup instructions, component descriptions, and explanations of key design decisions. This will make it easier for other developers to understand and contribute to the project.
 
 - **Security Enhancements**: Review and implement best practices for securing the application, including input validation, data sanitization, and protection against common vulnerabilities.
-
-- **Integration of Additional APIs**: Explore integrating other relevant APIs to provide users with more features and functionalities that align with the project's goals.
-
-These improvements will contribute to the project's overall quality and user satisfaction. Feel free to prioritize them based on your project's goals and time availability.
 
 
 ## Acknowledgments
